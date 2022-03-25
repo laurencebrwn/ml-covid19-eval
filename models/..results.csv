@@ -1,2 +1,0 @@
-Model Name,num_units,dropout,optimizer,learning_rate,IMAGE_SIZE,BATCH_SIZE,DATASET_SIZE,MAX_EPOCHS,K_FOLDS,Accuracy,K_accuracy,Precision,Recall,f1 Score,Training Time
-AlexNet-20220303-124659,512,0.2,sgd,0.001,224,32,10,20,2,0.5,0.5,0.5,1.0,0.6666666666666666,4.921875
