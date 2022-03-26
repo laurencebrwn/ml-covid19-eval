@@ -1,5 +1,7 @@
 # Dataset
 covidx-cxr2/
+# Trained Models
+trained\ classifiers/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
