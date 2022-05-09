@@ -1,2 +1,4 @@
 # ml-covid19-eval
- 
+This repository contains the source code to my final year project: Analysis of the effectiveness of multiple machine learning algorithms, to establish the best suited at diagnosing COVID-19
+## Abstract
+COVID-19 diagnoses are usually supported by both a PCR or LFT test and a doctor’s opinion on a medical image. However, the process of diagnosing a disease through a medical image can be untimely and costly. This is where machine learning algorithms can help, by offering the doctor a fast second opinion. Many machine learning algorithms exist for diagnosing COVID-19, this project aims to evaluate and compare multiple existing algorithms to recommend the most effective. Algorithms will be trained on the same chest X-Ray dataset with the same pre-processing techniques and, following tuning, the results will be discussed to highlight the benefits and pitfalls of each algorithm.
